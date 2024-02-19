@@ -9,5 +9,5 @@ https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/1f
 
 Created a second visual with toggle features 
 
-https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/d5250660-cdde-4649-ac4d-4dc88ab3fc0a
+https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/330e539b-35d8-47ec-8dac-41e8b44a9259
 
