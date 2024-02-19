@@ -8,5 +8,6 @@ https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/1f
 
 
 Created a second visual with toggle features 
-![Screenshot (27)](https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/2d00301b-73b6-40f0-b517-2f1f76c650cf)
-![Screenshot (28)](https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/5a77ded1-e93c-4901-b3d2-2d2a4c7256e9)
+
+https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/d5250660-cdde-4649-ac4d-4dc88ab3fc0a
+
