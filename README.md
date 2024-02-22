@@ -6,7 +6,7 @@ Perform the needed data cleaning steps to visualize data from superstore.csv in 
 ![Screenshot (12)](https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/7b3d7d0a-afbe-4576-b259-c8086bbd977b)
 
 **Process:**
-Produced 2 visualizations based on the superstore dataset. After looking within the csv, I figured a great deal of the visualization would involve numerical values based on the total profits and sales. I calculated the total Profits based on each state and produced a color pallete to create distinctions between profit values. 
+Produced 2 visualizations based on the superstore dataset from 2014- 2017. After looking within the csv, I figured a great deal of the visualization would involve numerical values based on the total profits and sales. I calculated the total Profits based on each state and produced a color pallete to create distinctions between profit values. 
 
 **Conclusion:** After producing the data visualization I noted that the 3 major states with the highest profit were New York, California, and Michigan while the 3 states with the lowest profit were Texas, Pennsylvania and Ohio. Additionally, with the hover function, users can view the values of a state's quantity of products, average discount values and sales values. 
 
