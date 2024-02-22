@@ -2,7 +2,7 @@
 
 
 **Objective:**
-Perform the needed data cleaning steps to visualize data from superstore.csv in D3.  Analyze the data and create visualizations that summarize the data without having looked at the data. 
+Perform the needed data cleaning steps to visualize data from superstore.csv in D3. Conduct a comprehensive data analysis and generate visual representations that encapsulate the essence of the dataset,  without looking at the data. 
 ![Screenshot (12)](https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/7b3d7d0a-afbe-4576-b259-c8086bbd977b)
 
 **Process:**
