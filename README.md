@@ -13,7 +13,7 @@ Produced 2 visualizations based on the superstore dataset. After looking within 
 **Challenges:** After finally concluding the choropleth visualizations, I found it hard to choose between this visualization and Screenshot (11) since 
 the other graph contains slightly differnt legend values and highlighted more negative values. Because of the wide range of values within the data set and overall more values being positive,  I chose to go with larger range of values for the legend producing a more gradual shift between range values. 
 
-Video of showing functionality of choropleth 
+**Video showing functionality of choropleth**
 
 https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/1f97c735-8b54-4543-8c17-44c427a8c600
 
