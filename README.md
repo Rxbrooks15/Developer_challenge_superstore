@@ -19,9 +19,9 @@ https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/1f
 
 Finally, I created a second visual of superstore.csv with toggle features allowing users to view 4 unique graphs based on the toggle button clicked. With this, an animation feature was implimented to create a subtle transition between the changing phrases of the graphs.
 
-**Conclusion_2:** New York and California had the highest sales by far. Total profits are synonymous the the choropleth in the first plot but as a lolipop char. Chairs and Phones are sold the most and have the highest sales. Copiers, phones and accessories have the highest profit while tables have the least profit (overall negative profit)
+**Conclusion_2:** New York and California had the highest sales by far. The "total profits by state" graph is synonymous to the choropleth in the first plot but this visualization is in the form of a lolipop chart. Chairs and phones are sold the most and have the highest sales. Copiers, phones, and accessories have the highest profit while tables have the least profit (overall negative profit).
 
-**Challenges_2:** I had a hard time changing the axes but later implimented functions to update the x axis to the 0 value of the y-axis.
+**Challenges_2:** I had a hard time changing and updating the axes but later implimented functions to update the x axis to the 0 value of the y-axis even when different graphs containing shifted x axes are toggled based on the buttons.
 
 
 https://github.com/Rxbrooks15/Developer_challenge_superstore/assets/112977778/330e539b-35d8-47ec-8dac-41e8b44a9259
