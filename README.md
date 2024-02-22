@@ -10,7 +10,7 @@ Produced 2 visualizations based on the superstore dataset. After looking within 
 
 **Conclusion:** After producing the data visualization I noted that the 3 major states with the highest profit were New York, California, and Michigan while the 3 states with the lowest profit were Texas, Pennsylvania and Ohio. Additionally, with the hover function, users can view the values of a state's quantity of products, average discount values and sales values. 
 
-**Challenges:** After finally concluding the choropleth visualizations, I found it hard to choose between this visualization and Screenshot (11) since 
+**Challenges:** After finally concluding the choropleth visualizations, I found it hard to choose between this visualization and **Screenshot (11)** since 
 the other graph contains slightly differnt legend values and highlighted more negative values. Because of the wide range of values within the data set and overall more values being positive,  I chose to go with larger range of values for the legend producing a more gradual shift between range values. 
 
 **Video showing functionality of choropleth**
